@@ -73,12 +73,12 @@ namespace Monika_Example
                 }
                 else
                 {
-                    Console.WriteLine("Please enter a single letter");
+                    Console.WriteLine("Please enter a single LETTER");
                 }
             } 
             else
             {
-                Console.WriteLine("Please enter a single character");
+                Console.WriteLine("Please enter a SINGLE character");
             }
 
 
