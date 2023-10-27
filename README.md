@@ -1,6 +1,15 @@
 # Monika_Example
 
 ## Breakdown
+Hi Monika,
+
+Here's a breakdown of how I might approach validations for your code. I kept your logic the same, I just wrapped everything in a couple of if statements to check for string length and if it was a letter ( full explination below ).
+
+I also converted some things early and fleshed out our reponse depending on how many players were found.
+
+I hope this helps answer your question regarding validating Option 3. If not, let me know and I'll be happy to try again!
+
+Thanks again for all your hard work.
 
 ### Validations
 
