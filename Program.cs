@@ -20,6 +20,7 @@ namespace Monika_Example
             DisplayFirstLetterOfName(firstNames);
         }
 
+        // Converted to List<string> just for ease of example
         public static void DisplayFirstLetterOfName(List<string> players)
         {
             Console.Write($"Enter the letter: ");
